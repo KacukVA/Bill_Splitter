@@ -1,0 +1,6 @@
+custom_name: Load module
+content:
+- Theory
+- What is a module
+- Good importing practices
+- Calculating the factorial
